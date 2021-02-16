@@ -1,0 +1,5 @@
+- 👋 Hola, soy @UpDavo!
+- 👀 Estoy interesado en el desarrollo web con javascript y aplicaciònes mòviles
+- 🌱 Actualmente me encuentro aprendiendo React y Flutter
+- 💞️ Me gustarìa colaborar con el desarrollo de aplicaciònes a gran escala
+- 📫 Para un mejor contacto, escribir a: 
